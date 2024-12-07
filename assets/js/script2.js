@@ -33,6 +33,6 @@ document.addEventListener('keydown', function(event){
         newDiv.style.backgroundColor = color;
     }
         
-    console.log(color)
+    //console.log(color)
    
 });

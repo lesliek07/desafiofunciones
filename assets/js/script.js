@@ -16,7 +16,7 @@ function pintar(elemento, color='green') {
 }
   
   
-  ele.addEventListener("click", function(){pintar(ele, 'yellow')} )
+ele.addEventListener("click", function(){pintar(ele, 'yellow')} )
 
 
 
